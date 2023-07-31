@@ -11,6 +11,7 @@ import com.example.radhekrishnya.R;
 import com.example.radhekrishnya.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
+
     private ActivityMainBinding binding;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
